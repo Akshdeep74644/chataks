@@ -4,7 +4,7 @@ const chatContainer = document.querySelector(".chat_container");
 const startConteiner = document.querySelector(".start_content");
 
 let userChat = null;
-let APIKEY = "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";
+let APIKEY = "Use your Key";
 let createElement = (html, className) => {
   const chatDiv = document.createElement("div");
   chatDiv.classList.add("chat", className);
